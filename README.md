@@ -33,11 +33,12 @@ Quickly copy JIRA task information in various formats.
 * Custom templates with placeholders for JIRA fields
 
 📊 Available template fields:
-{summary} - task title
-{key} - task key (PROJ-123)
-{status}, {priority}, {assignee} - basic information
-{issueLink} - full link to the task
-{date}, {time} - current date/time
+* {summary} - task title
+* {key} - task key (PROJ-123)
+* {status}, {priority}, {assignee} - basic information
+* {issueLink} - full link to the task
+* {date}, {time} - current date/time
+
 And 15+ more JIRA fields
 
 ### Blocked-by indicator
